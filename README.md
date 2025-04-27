@@ -98,6 +98,8 @@ Several vulnerabilities were detected:
 - **Improve cookie security** by setting the HttpOnly flag on critical cookies.
 - **Regular security scans** to detect vulnerabilities as the platform evolves.
 
+
+Video Explantion -[https://drive.google.com/drive/folders/1YLwtq7BkYYEMQLJnrH1VlDWJmpnKCTG3?usp=sharing]
 ---
 
 This QA report is a **snapshot** of the platform’s current status. It provides insights into **areas for improvement** to ensure that Interviewer.ai remains a secure, performant, and reliable platform for its users.
